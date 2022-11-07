@@ -1,0 +1,18 @@
+h1{
+
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(255, 196, 0);
+}
+h3{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: rgb(255, 244, 88);
+}
+body{
+    font-size: 40px;
+    background-color: rgb(6, 0, 63);
+    margin-top: 3%;
+    margin-left: 30%;
+    font-family:'Times New Roman', Times, serif;
+}
